@@ -26,4 +26,4 @@
  
  # Atividade
  ***
- ![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandre3105&show_icons=true&theme=dark)
+ ![Alexandre GitHub status](https://github-readme-stats.vercel.app/api?username=Alexandre3105&show_icons=true&theme=dark)
