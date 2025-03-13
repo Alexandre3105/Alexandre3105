@@ -8,8 +8,7 @@
 
 ###  __*Tecnologias que uso no dia a dia*__
 ***
- ![Python]( ![image](https://github.com/user-attachments/assets/f45a30e5-c4ba-4065-8fb1-b39164503589)
-)
+ ![Python]((https://github.com/user-attachments/assets/f45a30e5-c4ba-4065-8fb1-b39164503589)
  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
  ![Sql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
  
