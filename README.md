@@ -8,10 +8,11 @@
 
 ###  __*Tecnologias que uso no dia a dia*__
 ***
- ![ Javascript]( https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ ![Python]( ![image](https://github.com/user-attachments/assets/f45a30e5-c4ba-4065-8fb1-b39164503589)
+)
  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
  ![Sql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
- ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+ 
  
  
  ### __*Sistemas operacionais que utilizo no meu dia a dia*__ 
