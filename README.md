@@ -3,7 +3,7 @@
 *Minhas redes sociais*:
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandre.__lopes/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xande_blopes/)
 
 
 ###  __*Tecnologias que uso no dia a dia*__
